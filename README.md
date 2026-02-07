@@ -1,0 +1,1 @@
+# magazine-with-column-and-row
